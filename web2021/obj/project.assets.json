@@ -8847,11 +8847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\PROYECTO\\web2021\\web2021\\web2021.csproj",
+      "projectUniqueName": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\FINAL\\web2021\\web2021.csproj",
       "projectName": "web2021",
-      "projectPath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\PROYECTO\\web2021\\web2021\\web2021.csproj",
+      "projectPath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\FINAL\\web2021\\web2021.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\PROYECTO\\web2021\\web2021\\obj\\",
+      "outputPath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\FINAL\\web2021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

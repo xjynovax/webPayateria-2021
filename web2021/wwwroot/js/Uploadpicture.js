@@ -1,4 +1,4 @@
-﻿import { read } from "@popperjs/core";
+﻿
 
 class Uploadpicture {
     archivo(evt, id) {

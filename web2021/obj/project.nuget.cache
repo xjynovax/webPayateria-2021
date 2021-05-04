@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDWB3aiU1HxzxVgQF0LX+y0gsy2mQvElhylVs7qlbEHBv8wDKos9J1GzLDfH6Q5wZslKno5zwxFQYPvnse7tbg==",
+  "dgSpecHash": "jbZAtuG4Hd3Jdr79dQbvCdJ4s0kQ6nSH86xnNC+Jxxdo5x8+jf/23jWWPOAa348Sv2SinsP9LJ5kCAw0VeTIJg==",
   "success": true,
-  "projectFilePath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\PROYECTO\\web2021\\web2021\\web2021.csproj",
+  "projectFilePath": "D:\\Universidad\\Ciclo 9\\Ing. WEB\\FINAL\\web2021\\web2021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.13\\microsoft.aspnetcore.cryptography.internal.3.1.13.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.13\\microsoft.aspnetcore.cryptography.keyderivation.3.1.13.nupkg.sha512",
